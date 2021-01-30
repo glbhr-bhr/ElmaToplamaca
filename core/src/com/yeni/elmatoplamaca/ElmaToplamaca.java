@@ -1,4 +1,5 @@
 package com.yeni.elmatoplamaca;
+// kodlar java da yazılmış Android oyunu olarak ödev teslimi yapılmış. !!!!
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.ApplicationListener;
